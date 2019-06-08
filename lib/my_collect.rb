@@ -7,6 +7,4 @@ i += 1
 end 
 collection_of_names
 end 
-
-
-
+end
